@@ -53,6 +53,10 @@ section#about p {
   font-weight: bold;
 }
 
+.back-link:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 600px) {
   section#about {
     padding: 20px;
